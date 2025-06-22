@@ -17,4 +17,6 @@ int main(void)
             cout << "*";
         cout << endl;
     }
+
+    return 0;
 }
